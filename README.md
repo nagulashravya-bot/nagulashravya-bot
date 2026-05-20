@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋 I'm Nagula Shravya
 
-<!--
-**nagulashravya-bot/nagulashravya-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE-AIML Student  
+🤖 AI & GenAI Enthusiast  
+💻 Frontend Developer  
+🚀 Future AI Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Skills
+- Python
+- C Programming
+- HTML
+- CSS
+- JavaScript
+- DSA Basics
+- AI & ML Basics
+- GenAI Basics
+
+---
+
+## 📌 Projects
+- Portfolio Website
+- Cafeteria Website
+- Sports Survey Form
+- Srisailam Divine Website
+
+---
+
+## 🔗 Connect With Me
+
+💼 LinkedIn:
+https://www.linkedin.com/in/nagula-shravya-388427381/
+
+💻 GitHub:
+https://github.com/nagulashravya-bot
+
+---
+
+⭐ Currently learning:
+AI Agents • Chatbots • RAG • Generative AI
