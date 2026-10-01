@@ -20,10 +20,10 @@
 ---
 
 ## 📌 Projects
-- Portfolio Website
-- Cafeteria Website
-- Sports Survey Form
-- Srisailam Divine Website
+- Smart Queue Management System
+- National Interoperability and Integration Platform (NIIP) 
+- AI Study Assistant- Intelligent PDF Chatbot
+  
 
 ---
 
