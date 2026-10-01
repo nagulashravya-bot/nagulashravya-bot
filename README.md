@@ -1,8 +1,7 @@
 # Hi 👋 I'm Nagula Shravya
 
 🎓 CSE-AIML Student  
-🤖 AI & GenAI Enthusiast  
-💻 Frontend Developer  
+🤖 AI & GenAI Enthusiast   
 🚀 Future AI Engineer  
 
 ---
